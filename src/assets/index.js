@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -21,10 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import kineticvision from "./company/kineticvision.png"
+import title from "./company/title.png"
+import refractlabs from "./company/refractlabs.png"
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +52,9 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  kineticvision,
+  title,
+  refractlabs,
   carrent,
   jobit,
   tripguide,
