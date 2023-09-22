@@ -118,7 +118,7 @@ const experiences = [
     title: "Software + Solutions Co-Op",
     company_name: "Kinetic Vision",
     icon: kineticvision,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "April 2022 - May 2023",
     points: [
       "Proficiently executed software modifications, meticulously adhering to design specifications.",
@@ -132,7 +132,7 @@ const experiences = [
     title: "Junior Layout Designer",
     company_name: "Title Magazine",
     icon: title,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     date: "Nov 2021 - Dec 2022",
     points: [
       "Collaborated closely with a dynamic creative team, fostering a synergistic work environment",
@@ -146,7 +146,7 @@ const experiences = [
     title: "Fullstack Developer Intern",
     company_name: "Refract Labs",
     icon: refractlabs,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Jan 2021 - Aug 2021",
     points: [
       "Demonstrated versatility by adeptly utilizing a broad spectrum of libraries and tools.",
