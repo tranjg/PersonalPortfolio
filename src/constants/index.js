@@ -58,6 +58,7 @@ const services = [
   },
 ];
 
+// TODO: review technologies
 const technologies = [
   {
     name: "HTML 5",
@@ -76,8 +77,13 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
+    name: "React",
     icon: reactjs,
+  },
+  // TODO: update Next.js icon 
+  {
+    name: "Next.js",
+    icon: docker,
   },
   {
     name: "Redux Toolkit",
@@ -91,24 +97,25 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
+  // TOODO: update GraphQL icon
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "GraphQL",
+    icon: docker,
   },
   {
     name: "Three JS",
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
   },
   {
-    name: "docker",
+    name: "Docker",
     icon: docker,
   },
 ];
@@ -157,8 +164,24 @@ const experiences = [
       "Developed a custom UI library that increased developer productivity and code reuse.",
     ],
   },
+  // TODO: update US Bank icon
+  {
+    title: "Data Entry Specialist",
+    company_name: "US Bank",
+    icon: refractlabs,
+    iconBg: "#383E56",
+    date: "Aug 2019 - Nov 2020",
+    points: [
+      "Played a pivotal role within the Lockbox Team, contributing to the team's efficiency and effectiveness.",
+      "Exhibited a remarkable data entry speed of 80 words per minute, surpassing the team's expectations.",
+      "Maintained an unwavering commitment to accuracy, ensuring error-free data processing.",
+      "Proficiently mastered the software tools essential to the role, optimizing workflow and minimizing processing times.",
+      "Actively engaged in continuous learning and skill refinement to stay at the forefront of data entry best practices.",
+    ],
+  },
 ];
 
+// TODO: update projects
 const projects = [
   {
     name: "Car Rent",
