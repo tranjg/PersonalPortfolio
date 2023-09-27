@@ -11,7 +11,8 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
+  nextjs,
+  graphql,
   git,
   figma,
   docker,
@@ -22,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  usbank
 } from "../assets";
 
 export const navLinks = [
@@ -80,13 +82,12 @@ const technologies = [
     name: "React",
     icon: reactjs,
   },
-  // TODO: update Next.js icon 
   {
-    name: "Next.js",
-    icon: docker,
+    name: "NextJS",
+    icon: nextjs,
   },
   {
-    name: "Redux Toolkit",
+    name: "Redux",
     icon: redux,
   },
   {
@@ -94,16 +95,15 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
+    name: "NodeJS",
     icon: nodejs,
   },
-  // TOODO: update GraphQL icon
   {
     name: "GraphQL",
-    icon: docker,
+    icon: graphql,
   },
   {
-    name: "Three JS",
+    name: "ThreeJS",
     icon: threejs,
   },
   {
@@ -139,7 +139,7 @@ const experiences = [
     title: "Junior Layout Designer",
     company_name: "Title Magazine",
     icon: title,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Nov 2021 - Dec 2022",
     points: [
       "Collaborated closely with a dynamic creative team, fostering a synergistic work environment",
@@ -164,12 +164,11 @@ const experiences = [
       "Developed a custom UI library that increased developer productivity and code reuse.",
     ],
   },
-  // TODO: update US Bank icon
   {
     title: "Data Entry Specialist",
     company_name: "US Bank",
-    icon: refractlabs,
-    iconBg: "#383E56",
+    icon: usbank,
+    iconBg: "#E6DEDD",
     date: "Aug 2019 - Nov 2020",
     points: [
       "Played a pivotal role within the Lockbox Team, contributing to the team's efficiency and effectiveness.",

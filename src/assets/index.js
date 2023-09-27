@@ -14,16 +14,19 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import nextjs from "./tech/nextjs.png"
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import graphql from "./tech/graphql.png"
 
 import kineticvision from "./company/kineticvision.png"
 import title from "./company/title.png"
 import refractlabs from "./company/refractlabs.png"
+import usbank from "./company/usbank.png"
 
 
 import carrent from "./carrent.png";
@@ -58,4 +61,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  nextjs,
+  graphql,
+  usbank
 };
