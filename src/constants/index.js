@@ -23,7 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
-  usbank
+  usbank,
 } from "../assets";
 
 export const navLinks = [
@@ -35,10 +35,10 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
-  // {
-  //   id: "contact",
-  //   title: "Contact",
-  // },
+  {
+    id: "contact",
+    title: "Contact",
+  },
 ];
 
 const services = [
