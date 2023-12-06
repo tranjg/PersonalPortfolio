@@ -183,67 +183,55 @@ const experiences = [
 // TODO: update projects
 const projects = [
   {
-    name: "Car Rent",
+    name: "Book Banker",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "My senior capstone project for the University of Cincinnati. It is a proof of concept application developed to help book banks efficently track inventory and lend books that could save book banks about an hour per book, along with providing a storefront for customers.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nextjs",
         color: "green-text-gradient",
       },
       {
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "keystone",
+        color: "orange-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: undefined,
+    source_code_link: "https://github.com/tranjg/book-banker",
   },
   {
-    name: "Job IT",
+    name: "You're It!",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A digital recreation of the game Tag using the Phaser engine. It is played by two players on the same keyboard.",
     tags: [
       {
-        name: "react",
+        name: "phaserjs",
         color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://tranjg.github.io/youre-it/",
   },
   {
-    name: "Trip Guide",
+    name: "Let It Float",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A webapp that creates floating balloons all written in vanilla JavaScript.",
     tags: [
       {
-        name: "nextjs",
+        name: "javascript",
         color: "blue-text-gradient",
       },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: undefined,
+    source_code_link: "https://tranjg.github.io/let-it-float/",
   },
 ];
 

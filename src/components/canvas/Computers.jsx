@@ -67,6 +67,7 @@ const ComputersCanvas = () => {
     shadows 
     camera={{position: [20, 3, 5], fov: 25}}
     gl={{preserveDrawingBuffer: true}}
+    className='canvas'
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls 
