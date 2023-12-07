@@ -217,8 +217,8 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://tranjg.github.io/youre-it/",
+    image: undefined,
+    source_code_link: "https://github.com/tranjg/youre-it",
   },
   {
     name: "Let It Float",
@@ -231,7 +231,7 @@ const projects = [
       },
     ],
     image: undefined,
-    source_code_link: "https://tranjg.github.io/let-it-float/",
+    source_code_link: "https://github.com/tranjg/let-it-float",
   },
 ];
 
