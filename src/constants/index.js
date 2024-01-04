@@ -60,7 +60,6 @@ const services = [
   },
 ];
 
-// TODO: review technologies
 const technologies = [
   {
     name: "HTML 5",
@@ -128,11 +127,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "April 2022 - May 2023",
     points: [
-      "Proficiently executed software modifications, meticulously adhering to design specifications.",
-      "Collaborated with renowned Fortune 500 organizations, ensuring seamless project integration.",
-      "Played a pivotal role in identifying and implementing cost-saving measures, surpassing $10,000 in total client revenue preservation.",
-      "Consistently achieved project milestones and deliverables within stringent timelines.",
-      "Maintained open lines of communication with stakeholders, fostering productive and collaborative partnerships.",
+      "Executed software modifications with precision, ensuring strict adherence to design specifications.",
+      "Collaborated seamlessly with Fortune 500 organizations, leading teams for effective project integration.",
+      "Played a key role in implementing cost-saving measures, preserving over $100,000 in client revenue.",
+      "Achieved project milestones consistently within tight timelines, demonstrating effective leadership.",
+      "Fostered productive partnerships through open communication with stakeholders, optimizing team performance.",
     ],
   },
   {
@@ -156,12 +155,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Aug 2021",
     points: [
-      "Demonstrated versatility by adeptly utilizing a broad spectrum of libraries and tools.",
-      "Led end-to-end development of high-value products, spanning diverse client industries.",
-      "Successfully navigated both front-end and back-end intricacies, ensuring seamless integration.",
-      "Translated client objectives into effective technical solutions, aligning with project goals.",
-      "Consistently met project milestones and delivered outcomes that exceeded client expectations.",
-      "Developed a custom UI library that increased developer productivity and code reuse.",
+      "Showcased versatility by expertly employing a broad spectrum of libraries and tools.",
+      "Spearheaded end-to-end development of high-value products across diverse client industries.",
+      "Navigated both front-end and back-end intricacies to ensure seamless integration of technical solutions.",
+      "Translated client objectives into effective technical strategies, aligning seamlessly with project goals.",
+      "Achieved consistent success in meeting project milestones and exceeding client expectations.",
     ],
   },
   {
@@ -171,7 +169,6 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Aug 2019 - Nov 2020",
     points: [
-      "Played a pivotal role within the Lockbox Team, contributing to the team's efficiency and effectiveness.",
       "Exhibited a remarkable data entry speed of 80 words per minute, surpassing the team's expectations.",
       "Maintained an unwavering commitment to accuracy, ensuring error-free data processing.",
       "Proficiently mastered the software tools essential to the role, optimizing workflow and minimizing processing times.",
@@ -180,7 +177,6 @@ const experiences = [
   },
 ];
 
-// TODO: update projects
 const projects = [
   {
     name: "Book Banker",
